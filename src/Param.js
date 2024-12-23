@@ -31,7 +31,7 @@ const AttentionMechanismRow = ({ mechanism, audioFiles }) => (
 // Component for a parameter size section
 const ParamSizeSection = ({ paramSize, data }) => (
   <Box>
-    <Typography variant="h5" sx={{ fontWeight: 'bold', marginTop: '20px' }}>
+    <Typography variant="h6" sx={{ fontWeight: 'bold', marginTop: '20px' }}>
       Parameter Size: {paramSize}
     </Typography>
     <TableContainer component={Paper} style={tableContainerStyle}>

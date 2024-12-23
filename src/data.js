@@ -49,7 +49,7 @@ export const param_data = [
         },
     ]},
     // size 2
-    {"size": "300M",
+    {"size": "100M",
     "data": [
         {
             "mechanism": "MHA",
@@ -84,7 +84,79 @@ export const param_data = [
             ],
         },
     ]},
-
+    // size 3
+    {"size": "50M",
+    "data": [
+        {
+            "mechanism": "MHA",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+        {
+            "mechanism": "MHA_Flash",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+        {
+            "mechanism": "GQA",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+        {
+            "mechanism": "MQA",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+    ]},
+    // size 4
+    {"size": "10M",
+    "data": [
+        {
+            "mechanism": "MHA",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+        {
+            "mechanism": "MHA_Flash",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+        {
+            "mechanism": "GQA",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+        {
+            "mechanism": "MQA",
+            "audioFiles": [
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            ],
+        },
+    ]},
+    
 
 ]
 

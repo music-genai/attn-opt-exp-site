@@ -20,8 +20,8 @@ function App() {
       <Typography marginTop="8px" variant="h4" component="h4" fontStyle={"italic"}>
         Attention Optimization Experiment
       </Typography>
-      {/* <hr/> */}
-      <Box marginTop="20px">
+      <hr/>
+      <Box marginTop="30px">
         <Typography sx={{ fontWeight: 'bold'}} marginTop="8px" variant="h5" component="h5">
           Abstract
         </Typography>
@@ -30,18 +30,10 @@ function App() {
           {static_text.abstract}
         </Typography>
       </Box>
-      <Typography sx={{ fontWeight: 'bold'}} marginTop="30px" variant="h5" component="h5">
+      <Typography sx={{ fontWeight: 'bold', marginBottom: '20px'}} marginTop="30px" variant="h5" component="h5">
           Model Generated Samples
       </Typography>
-      {/* <ParamSizeSection paramSize="Small" data={[
-        {
-          mechanism: "Soft Attention",
-          audioFiles: [
-            "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-            "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-            "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-          ],
-        }]}/> */}
+      <hr/>
 
       {
         param_data.map((param, index) => (
