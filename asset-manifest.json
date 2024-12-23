@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/attn-opt-exp-site/static/css/main.f855e6bc.css",
-    "main.js": "/attn-opt-exp-site/static/js/main.7a956c99.js",
+    "main.js": "/attn-opt-exp-site/static/js/main.c268e70b.js",
     "static/js/488.e83b635d.chunk.js": "/attn-opt-exp-site/static/js/488.e83b635d.chunk.js",
     "static/media/logo.svg": "/attn-opt-exp-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/attn-opt-exp-site/index.html",
     "main.f855e6bc.css.map": "/attn-opt-exp-site/static/css/main.f855e6bc.css.map",
-    "main.7a956c99.js.map": "/attn-opt-exp-site/static/js/main.7a956c99.js.map",
+    "main.c268e70b.js.map": "/attn-opt-exp-site/static/js/main.c268e70b.js.map",
     "488.e83b635d.chunk.js.map": "/attn-opt-exp-site/static/js/488.e83b635d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.7a956c99.js"
+    "static/js/main.c268e70b.js"
   ]
 }
