@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Developer Notes
+
+Developing Steps:
+1. Checkout new branch
+2. Make changes
+3. Make PR to merge into main if unsure
+4. Go to main and run "npm predeploy".
+5. Run "npm deploy"
 ## Available Scripts
 
 In the project directory, you can run:
